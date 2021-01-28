@@ -1,4 +1,4 @@
-# Definition for singly-linked list.
+# 234. Palindrome Linked List
 class ListNode:
     def __init__(self, x, next=None):
         self.val = x
